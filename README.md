@@ -1,8 +1,4 @@
-# zDrop - (Frontend)
-
-zDrop is an e-Commerce website featuring 100+ millions of products across the world from reliable and competitive Manufacturers / Merchants / Suppliers at affordable price with lots of varieties. zDrop is committed to offer customers an easier and convenient international online shopping experience.
-
-We are a young company incorporated in the year 2020 and is driven by young and energetic Management team. It is our deep regard for business ethics, committed workforce and being in tune with the times that have brought us to where we are today.
+# Boilerplate Next.js v2
 
 ## Requirments
 
@@ -29,4 +25,4 @@ Contact [@sonjoydatta](https://github.com/sonjoydatta) for and example `.env` fi
 
 ## Author
 
-> All rights Reserved by Zaynax Limited. [Click here](https://zaynax.com) for more info.
+> Sonjoy Datta [@sonjoydatta](https://github.com/sonjoydatta)
