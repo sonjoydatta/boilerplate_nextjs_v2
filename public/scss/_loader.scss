@@ -1,0 +1,24 @@
+#nprogress {
+	.bar {
+		background: $primary !important;
+		height: 4px !important;
+	}
+
+	.peg {
+		box-shadow: 0 0 10px $primary, 0 0 5px $primary !important;
+	}
+
+	.spinner {
+		top: 10px !important;
+		margin-top: 0 !important;
+
+		& > div {
+			background-color: transparent !important;
+		}
+
+		&-icon {
+			border-top-color: $primary !important;
+			border-left-color: $primary !important;
+		}
+	}
+}

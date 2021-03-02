@@ -1,0 +1,11 @@
+// colors
+$primary: #00b55b;
+// $body-bg: #fafafa !default;
+$body-color: #2b2b2b !default;
+
+// Grid columns
+$grid-gutter-width: 15px !default;
+
+// typography
+$font-size-base: 0.875rem !default; // typically `14px`
+@import '~bootstrap/scss/bootstrap.scss';
